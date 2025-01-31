@@ -1,4 +1,4 @@
-## vite
+###### vite
 ## yarn create vite
 ## cd yarn-vite1
 ##   yarn
@@ -18,3 +18,8 @@
 ## git add .
 ## git commit-m "meassge"
 ## git push -u origin main
+/*
+
+*/ 
+
+
